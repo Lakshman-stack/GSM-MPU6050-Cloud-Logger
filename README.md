@@ -43,4 +43,4 @@ STATUS
 - SoftwareSerial may limit performance on Arduino UNO
 
 ## 👨‍💻 Author
-Lakshman
+Lakshman Gowda H K
